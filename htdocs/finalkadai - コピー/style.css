@@ -1,0 +1,13 @@
+.contents{
+    display: flex;
+}
+
+.gazou{
+    width: 800px;
+    height: 600px;
+    background-image: url(img/83770878_p0_master1200.jpg);
+}
+.mozi{
+    width: 800px;
+    height: 600px;
+}
